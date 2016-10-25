@@ -1,4 +1,4 @@
-# Jekyll + ZURB Template
+# Jekyll + ZURB + Gulp Template
 
 This is a Jekyllized version of the [official ZURB Template](https://github.com/zurb/foundation-zurb-template) for use with [Foundation for Sites](http://foundation.zurb.com/sites). Zurb's [Panini](https://github.com/zurb/panini) and [Style Sherpa](https://github.com/zurb/style-sherpa/) have been removed and [Jekyll](http://jekyllrb.com/) has been added. Everything else has remained pretty much the same.
 
@@ -21,5 +21,12 @@ Finally, run `npm start` to run Gulp. Your finished site will be created in a fo
 ```
 http://localhost:8000
 ```
-
 To create compressed, production-ready assets, run `npm run build`.
+
+### Contains
+
+- Foundation 6.2.2
+- MotionUI 1.2.2
+- Jekyll 3
+- GitHub Pages deployment 
+
