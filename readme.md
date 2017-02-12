@@ -25,8 +25,9 @@ To create compressed, production-ready assets, run `npm run build`.
 
 ### Contains
 
-- Foundation 6.2.2
+- Foundation 6.3
 - MotionUI 1.2.2
 - Jekyll 3
 - GitHub Pages deployment 
+- Bourbon 4.2 
 
